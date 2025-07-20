@@ -35,9 +35,13 @@ nell'anno 2019 (ultimo anno in cui la “Relazione di Monitoraggio” del MISE f
 rappresentati secondo le statistiche seguenti, per le analisi di impatto economico delle sezioni
 “Argomentazioni” e “Budget” verranno usati invece i dati più aggiornati), fossero le imprese di tipo
 tradizionale e di settori a bassa tecnologia a dominare, per numerosità di richiedenti, il panorama degli
-incentivi alle imprese italiano. Inoltre, nel grafico di Figura 2 si apprezza che, per volume di risorse
+incentivi alle imprese italiano. 
+> Solitamente la maggior parte dei contributi sono studiati per andare a beneficio di PMI o Microimprese. Il fatto che molti dei beneficiari lo siano non giustifica l'affermazione che i contributi disincentivano la crescita, anzi.
+
+Inoltre, nel grafico di Figura 2 si apprezza che, per volume di risorse
 impiegate (escludendo le agevolazioni per la produzione di energia), quattro delle prime sei voci siano
 relative a settori legati al turismo e alle costruzioni [7].
+> Dal grafico leggo che 3 delle prime 6 voci, non 4. Sarebbe interessante capire quali sono stati questi incentivi, in particolare mi piacerebbe capire meglio quelli dedicati al turismo, visto il dibattito in corso. Inoltre è importantissimo distinguere tra **contributi a fondo perduto** e **finanziamenti agevolati**. Se parliamo solo di contributi a fondo perduto credo che le proporzioni potrebbero cambiare significativamente.
 
 
 Figura 1. Principali settori - Numero di concessioni (anno 2019)
@@ -83,6 +87,7 @@ La fase di analisi dettagliata richiede una grande quantità di risorse in termi
 l’attuale team che ha sviluppato questo PP non possiede. Pertanto, se approvato, questo PP implicherà
 l'allocazione di risorse specifiche con lo scopo di mappare e analizzare l'intero sistema di incentivi
 italiano.
+
 Come Realizzarlo:
 1. Mappatura degli Incentivi Esistenti: Utilizzare una matrice di valutazione per categorizzare
 tutti gli incentivi attualmente in vigore in base a criteri di finalità, categoria di beneficiario,
@@ -120,6 +125,9 @@ partner privati. Questi partner contribuiscono all'ingresso sul mercato delle ap
 sviluppate. Le imprese non ricevono risorse direttamente dallo Stato, ma collaborando con gli
 enti di ricerca in progetti parzialmente supportati dallo Stato, ottengono un vantaggio
 preferenziale per sfruttare economicamente le soluzioni sviluppate.
+
+> Mi sembra di capire che questo sarebbe un nuovo tipo di incentivo. Credo che sarebbe bene scrivere una bozza di bando pubblico dove scrivere il dettaglio del funzionamento dell'incentivo in questione. In questa sede suggerirei di limitarci all'indicare l'obiettivo dell'incentivo in questione, senza addentrarci nelle sue complessità. 
+> 
 Meccanismo di supporto si sviluppa come segue:
 A. Identificazione del Progetto:
 a. Un ente di ricerca (università, centri di ricerca, ecc.) identifica un progetto
@@ -155,7 +163,7 @@ sostanziale le proprie risorse sulla collaborazione con le imprese e sulle ricad
 lavoro sul sistema produttivo.
 Questo meccanismo inoltre è un modo per permettere ai ricercatori di avere accesso a
 strumentazioni e macchinari resi disponibili dai privati, necessari alla loro ricerca accademica.
-4. Riduzione della spesa pubblica: una parte delle risorse non viene reimpiegata, ma viene
+5. Riduzione della spesa pubblica: una parte delle risorse non viene reimpiegata, ma viene
 finalizzata alla riduzione del disavanzo nel bilancio nazionale
 * Spiegazione dettagliata delle valutazioni inserite in MMI:
 ● Finalità:
@@ -207,6 +215,12 @@ spinta a cooperare, fondersi, essere assorbite o sostituite da imprese più effi
 Questo tipo di imprese, a differenza delle start-up, con cui condividono solo il livello
 dimensionale, non basano la loro esistenza sulla proposizione di un'offerta innovativa,
 ma operano in settori stabili e basandosi su metodologie di lavoro tradizionali.
+> 1. Escludere queste imprese dal supporto pubblico significherebbe rinunciare a un pilastro dell’economia italiana. Secondo i dati ISTAT, le micro e piccole imprese (MPI) costituiscono oltre il 95% delle imprese italiane.
+> 2. Non tutte le innovazioni sono “disruptive”: le PMI innovano spesso in modo incrementale, migliorando prodotti o processi tradizionali, ad es durante la crisi pandemica, le PMI si sono dimostrate più flessibili nel riorientare produzioni, digitalizzarsi e riconfigurare supply chain locali
+> 3. L’assenza di supporto lascia molte PMI bloccate nel nanismo produttivo per difficoltà di accesso al credito e alle competenze. Banca d'Italia PMI e crescita dimensionale” (2020): “Gli incentivi pubblici (es. Nuova Sabatini, Industria 4.0) hanno aumentato significativamente gli investimenti in macchinari e ICT, favorendo il passaggio da micro a piccole-medie imprese”
+> 4. In Italia vi sono distretti industriali dove micro e piccole imprese hanno una TFP più alta di molte medie imprese generiche. Secondo ISTAT (Rapporto sulla Competitività, 2023), alcuni settori ad alta TFP media sono dominati da piccole imprese con forte specializzazione e know-how artigianale (es. meccanica di precisione, moda, agroalimentare tipico). La TFP dipende da capitale umano, investimenti, digitalizzazione e reti, non solo dalla dimensione.
+> 5. Molte innovazioni nelle PMI italiane sono "non misurate", ma strategiche per il posizionamento competitivo.
+> 6. Non è vero che il supporto pubblico riduce la competizione o l’efficienza: può al contrario essere una misura di equità sistemica.
 ○ Medie (<250 persone & <50M$ fatturato): Condividendo parzialmente la
 problematica dimensionale con le Piccole, in Italia risulta frequente che aziende di
 questo tipo sia dimensionalmente limitate a causa di bassi livelli di
@@ -273,7 +287,9 @@ innovative rappresenta un incentivo a non crescere, poiché il sistema di sussid
 di rimanere profittevoli nonostante la bassa produttività. L'eliminazione di queste spese
 permette di focalizzare le risorse su imprese con un maggiore potenziale di generare
 innovazioni e aumentare la produttività.
-2. Decisione politica: La politica, per sua natura, non può soddisfare ogni portatore di interesse.
+> Come ho spiegato meglio sopra non è corretto, secondo me, sostenere che i sussidi disincentivano la crescita dimensionale. Non esiste nessuna prova dell'ipotesi, qui data quasi per scontato, che i sussidi riducano o annullino il vantaggio competitivo delle economie di scala. Anche l'affermazione che le PMI non siano in grado di generare innovazioni e produttività è quantomeno da dimostrare, se non interamente falso.
+
+3. Decisione politica: La politica, per sua natura, non può soddisfare ogni portatore di interesse.
 Data la scarsità delle risorse, è necessario utilizzarle per massimizzare il bene comune, anche
 se ciò significa perdere il consenso di una parte della popolazione.
 Conclusione
