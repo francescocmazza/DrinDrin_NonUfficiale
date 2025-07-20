@@ -27,7 +27,10 @@ Inefficienza e disincentivo alla crescita: Molti incentivi sono destinati a real
 competitive, riducendo l'efficacia complessiva del sistema, disincentivando la crescita dimensionale
 del richiedente. Ciò è da imputarsi ad un incremento artificioso della profittabilità delle imprese, reso
 possibile dai sussidi erogati. Questo riduce la necessità da parte delle imprese di aumentare la propria
-dimensione per sfruttare maggiori economie di scala[5]. Nel grafico di Figura 1 vediamo che,
+dimensione per sfruttare maggiori economie di scala[5]. 
+> Penso che possa essere poco corretto affermare che i contributi disincentivano la crescita dimensionale, in quanto non hanno un effetto diretto, automatico ed univoco sulla crescita dimensionale dell'impresa. Le economie di scala permangono indipendentemente dai contributi. Capisco la logica del discorso, ma penso che sarebbe meglio non avventurarsi in questa consequenzialità più difficile da difendere
+
+Nel grafico di Figura 1 vediamo che,
 nell'anno 2019 (ultimo anno in cui la “Relazione di Monitoraggio” del MISE fornisce i dati
 rappresentati secondo le statistiche seguenti, per le analisi di impatto economico delle sezioni
 “Argomentazioni” e “Budget” verranno usati invece i dati più aggiornati), fossero le imprese di tipo
