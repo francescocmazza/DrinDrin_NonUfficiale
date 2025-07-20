@@ -223,6 +223,7 @@ ma operano in settori stabili e basandosi su metodologie di lavoro tradizionali.
 > 4. In Italia vi sono distretti industriali dove micro e piccole imprese hanno una TFP più alta di molte medie imprese generiche. Secondo ISTAT (Rapporto sulla Competitività, 2023), alcuni settori ad alta TFP media sono dominati da piccole imprese con forte specializzazione e know-how artigianale (es. meccanica di precisione, moda, agroalimentare tipico). La TFP dipende da capitale umano, investimenti, digitalizzazione e reti, non solo dalla dimensione.
 > 5. Molte innovazioni nelle PMI italiane sono "non misurate", ma strategiche per il posizionamento competitivo.
 > 6. Non è vero che il supporto pubblico riduce la competizione o l’efficienza: può al contrario essere una misura di equità sistemica.
+
 ○ Medie (<250 persone & <50M$ fatturato): Condividendo parzialmente la
 problematica dimensionale con le Piccole, in Italia risulta frequente che aziende di
 questo tipo sia dimensionalmente limitate a causa di bassi livelli di
