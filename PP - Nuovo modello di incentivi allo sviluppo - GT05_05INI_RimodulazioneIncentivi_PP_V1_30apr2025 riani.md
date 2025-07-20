@@ -204,7 +204,9 @@ non è considerato utile per lo sviluppo del paese è basata sull'esclusione. In
 parole, tutto ciò che non rientra nelle categorie precedenti, per le quali ci si riserva di
 valutare nel dettaglio le azioni da intraprendere, non viene considerato idoneo a
 essere sostenuto dalle risorse nazionali.
+
 ● Impresa di destinazione:
+
 ○ Micro(<10 persone & <2M$ fatturato) e Piccole(<50 persone & <10M$ fatturato):
 per questo gruppo di imprese non viene considerato utile mantenere un supporto da
 parte del sistema di incentivi nazionale. Ciò si spiega con la necessità di aumentare la
@@ -239,6 +241,7 @@ permetterne la nascita e la crescita, la valutazione indicata è infatti “NaN�
 ○ Persone Fisiche: lo scopo del Position Paper è rendere più efficienti gli incentivi
 destinati al sistema produttivo. Il welfare rivolto a persone e famiglie è fuori dal
 campo di applicazione, la valutazione indicata è infatti “NaN”.
+
 ● Modalità:
 ○ Le forme di incentivazione devono utilizzare strumenti che riducano la possibilità di
 effettuare azzardo morale da parte delle imprese. Questo lo si ottiene chiamando le
@@ -255,6 +258,7 @@ basato su super ammortamenti e crediti di imposta, avrebbe ottenuto “Inf” ne
 risultando quindi non idonea indipendentemente da qualsiasi valutazione ottenuta in altri blocchi della
 matrice. La stessa valutazione si può applicare anche al “Superbonus 110%”.
 Argomentazioni
+
 Benefici della riforma:
 ● Risparmio economico: Riduzione della spesa complessiva. Portando ad esempio la spesa in
 incentivi nel 2022, applicando anche solo la valutazione basata sulla dimensione di impresa,
